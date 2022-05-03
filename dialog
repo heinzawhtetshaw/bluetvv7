@@ -1,7 +1,8 @@
-{"title":"Admin Team (သတိပေးချက်)",
-"mes":"sever ပြင်ဆင်နေတာမို့လို့ လတ်တလောတွင်videoတွေတိုက်ရိုက်ကြည့်မရပါ",
-"button":"ok",
-"blink":"",
+{"title":"Please Update (fixed error)",
+"mes":"Video တွေကိုတိုက်ရိုက်ကြည့်မရဖစ်နေတဲ့ ပြဿနာကိုဖြေရှင်းပေးထားပါတယ်
+ကျေးဇူးပြုပီး updateပြုလုပ်ပါ",
+"button":"Update",
+"blink":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
 "review":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
 "retext":"playstore တွင် 5 star ပေးခြင်းဖြင့် မင်မင်အား ကူညီ‌ပေးကြပါအုံး",
 "miniblue":"https://raw.githubusercontent.com/apppro007/photo/main/PicsArt_02-21-12.35.57.jpg",
