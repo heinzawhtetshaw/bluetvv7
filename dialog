@@ -1,4 +1,4 @@
-{"title":"Please Update (fixed error)",
+{"title":"Close",
 "mes":"Video တွေကိုတိုက်ရိုက်ကြည့်မရဖစ်နေတဲ့ ပြဿနာကိုဖြေရှင်းပေးထားပါတယ်
 ကျေးဇူးပြုပီး updateပြုလုပ်ပါ",
 "button":"Update",
@@ -7,10 +7,10 @@
 "retext":"playstore တွင် 5 star ပေးခြင်းဖြင့် မင်မင်အား ကူညီ‌ပေးကြပါအုံး",
 "miniblue":"https://raw.githubusercontent.com/apppro007/photo/main/PicsArt_02-21-12.35.57.jpg",
 "playstore":"https://play.google.com/store/apps/details?id=com.bluemini.hzt",
-"direct":"https://www.mediafire.com/file/bdicr1fvpz4s3ah/Mini_BLUE.apk/file",
+"direct":"https://www.mediafire.com/file/n260w3mn8l112tq/Mini+BLUE_4.0.apk/file",
 "text":"မြန်မာလိုးကား App",
-"update":"close",
-"updatelink":"https://play.google.com/store/apps/details?id=com.bluemini.hzt",
-"updatedlink":"https://www.mediafire.com/file/bdicr1fvpz4s3ah/Mini_BLUE.apk/file",
-"updateicon":"https://raw.githubusercontent.com/apppro007/photo/main/PicsArt_02-21-12.35.57.jpg",
-"updatetext":"updateအသစ်တင်ပါရန်"}
+"update":"v4",
+"updatelink":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
+"updatedlink":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
+"updateicon":"https://raw.githubusercontent.com/apppro007/photo/main/20220101_102430.png",
+"updatetext":"Update တင်ပီးရင် Videoတွေ တိုက်ရိုက်ကြည့်ရှုလို့ရပါပီ Please Update"}
